@@ -1,2 +1,2 @@
 # learn_system_programming_in_rust
-用Rust学习系统编程
+《Command-Line Rust》学习笔记，pdf为每章的学习笔记，代码见各目录
