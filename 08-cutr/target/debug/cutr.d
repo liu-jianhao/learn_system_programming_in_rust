@@ -1,1 +1,0 @@
-/Users/liujianhao/code/rust/learn_system_programming_in_rust/08-cutr/target/debug/cutr: /Users/liujianhao/code/rust/learn_system_programming_in_rust/08-cutr/src/lib.rs /Users/liujianhao/code/rust/learn_system_programming_in_rust/08-cutr/src/main.rs

@@ -1,1 +1,0 @@
-/Users/liujianhao/code/rust/learn_system_programming_in_rust/07-findr/target/debug/findr: /Users/liujianhao/code/rust/learn_system_programming_in_rust/07-findr/src/lib.rs /Users/liujianhao/code/rust/learn_system_programming_in_rust/07-findr/src/main.rs

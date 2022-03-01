@@ -1,1 +1,0 @@
-/Users/liujianhao/code/rust/learn_system_programming_in_rust/05-wcr/target/debug/wcr: /Users/liujianhao/code/rust/learn_system_programming_in_rust/05-wcr/src/lib.rs /Users/liujianhao/code/rust/learn_system_programming_in_rust/05-wcr/src/main.rs
